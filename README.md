@@ -109,9 +109,9 @@ Project-2-Nashville-Housing-SQL-/
 
 ## Author
 
-**CodecRam**  
+**Ramkrushna Bhadekar**  
 📍 GitHub: [@CodecRam](https://github.com/CodecRam)  
-💼 LinkedIn: [Add your LinkedIn profile URL]
+💼 LinkedIn: [Ramkrushna Bhadekar](https://www.linkedin.com/in/ramkrushnabhadekar11/)
 
 ---
 
